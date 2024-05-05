@@ -1,45 +1,30 @@
-# EX NO: 3
-## RAILWAY RESERVATION SYSTEM
-## DATE:07.03.2024,14.03.2024
+# EX NO: 4
+## HOSPITAL MANAGEMENT SYSTEM
+## DATE:21.03.2024,28.03.2024
 ## AIM:
-To develop the Railway Reservation System using Star UML tool.
+To develop the Hospital management System using Star UML tool.
 ## PROBLEM STATEMENT:
-An E-Ticket (Electronic ticket) is a paperless electronic document
-used for ticketing passengers, particularly in the commercial airline, railway industries.  
-
-An E-Ticket offers many advantages for both travelers and
-airline includingsecurity, flexibility and cost convenience. At the
-same time, it also providesthe standard assurance of the
-traditional paper ticket, scaling choice, travel time options and
-other flexibilities. 
-
-Passengers typically print out copies of their E-Ticket including
-confirmation E-mail and other document. All those documents can
-be replaced by pulling them out of the computeragain and only a
-person with proper identification canactually use an E-Ticket. 
-
-E-Ticket passengers can receive everything from gate assignments to cancellation or delay through E-mail, text messages sent to their home orbusiness computers or to their cell phones.
-
-Finally, using E-Ticket is a more environmental friendly approach. The mainpurpose of the online bus ticket system is to provide
-another way for transnational customers to buy their tickets.
+It is very important to maintain efficient software to handle information of a
+hospital. This application provides a way to record this information and to
+access these in a simpleway.
 ## UML DIAGRAMS:
 ### 1.USE CASE DIAGRAM :
-![image](https://github.com/Yogabharathi3/software/assets/118899387/56bcdffb-d7e8-4901-9926-fd2993862d12)
+![image](https://github.com/Yogabharathi3/software/assets/118899387/23ccb59e-4db8-44d6-a640-176309f312a4)
 
 ### 2.COMMUNICATION DIAGRAM:
-![image](https://github.com/Yogabharathi3/software/assets/118899387/f6867254-2543-4df5-b20f-0a049500d6b6)
+![image](https://github.com/Yogabharathi3/software/assets/118899387/a9205abb-64b3-4ca6-9683-7d5811e4cfe9)
 
 ### 3.SEQUENCE DIAGRAM:
-![image](https://github.com/Yogabharathi3/software/assets/118899387/ea7b322b-b510-42ca-8fea-dfe5009eeba6)
+![Screenshot 2024-05-05 212446](https://github.com/Yogabharathi3/software/assets/118899387/f94ef320-d979-45ea-a9be-7e7021d4b249)
 
 ### 4.PACKAGE DIAGRAM:
-![image](https://github.com/Yogabharathi3/software/assets/118899387/984d4483-1772-41a3-8f80-e7af3a4655d0)
+![image](https://github.com/Yogabharathi3/software/assets/118899387/25c8538e-e16a-4e9f-924c-2ef66cb3d982)
 
 ### 5.CLASS DIAGRAM:
-![image](https://github.com/Yogabharathi3/software/assets/118899387/3fa29004-7513-497a-b5a7-774eb70da0fd)
+![image](https://github.com/Yogabharathi3/software/assets/118899387/33ed7321-a13d-46ed-81ea-f09d6bc521b9)
 
 ### 6.ACTVITY DIAGRAM:
-![image](https://github.com/Yogabharathi3/software/assets/118899387/c60a32e8-6139-4aa4-abd8-f4ac158f30fc)
+![image](https://github.com/Yogabharathi3/software/assets/118899387/e9ae1e65-8cb6-4213-b21e-37b95b22aaea)
 
 ## RESULT:
-Thus the project to develop e-ticketing system was developed using Star UML Software.
+Thus, the Hospital management System project was executed and the output was verified.

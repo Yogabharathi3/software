@@ -1,30 +1,30 @@
-# EX NO: 4
-## HOSPITAL MANAGEMENT SYSTEM
-## DATE:21.03.2024,28.03.2024
+# EX NO: 5
+## EXAM REGISTRATION SYSTEM
+## DATE:04.04.2024,11.04.2024
 ## AIM:
-To develop the Hospital management System using Star UML tool.
+To develop a project Course Reservation and Exam Registration System using Rational Rose Software and to implement the software in Java.
 ## PROBLEM STATEMENT:
-It is very important to maintain efficient software to handle information of a
-hospital. This application provides a way to record this information and to
-access these in a simpleway.
+ Effective for Administration Purpose
+ Cost effective
+ Better Services
 ## UML DIAGRAMS:
 ### 1.USE CASE DIAGRAM :
-![image](https://github.com/Yogabharathi3/software/assets/118899387/23ccb59e-4db8-44d6-a640-176309f312a4)
+![image](https://github.com/Yogabharathi3/software/assets/118899387/f978083e-88c2-4a03-aed3-002faa0bda32)
 
 ### 2.COMMUNICATION DIAGRAM:
-![image](https://github.com/Yogabharathi3/software/assets/118899387/a9205abb-64b3-4ca6-9683-7d5811e4cfe9)
+![image](https://github.com/Yogabharathi3/software/assets/118899387/d6e43378-6dae-4150-8c71-b17f95327694)
 
 ### 3.SEQUENCE DIAGRAM:
-![Screenshot 2024-05-05 212446](https://github.com/Yogabharathi3/software/assets/118899387/f94ef320-d979-45ea-a9be-7e7021d4b249)
+![image](https://github.com/Yogabharathi3/software/assets/118899387/41da91c1-cfd0-4c20-b746-94e897f3bc94)
 
 ### 4.PACKAGE DIAGRAM:
-![image](https://github.com/Yogabharathi3/software/assets/118899387/25c8538e-e16a-4e9f-924c-2ef66cb3d982)
+![image](https://github.com/Yogabharathi3/software/assets/118899387/c1772d95-5441-4343-bc06-d7a224204b30)
 
 ### 5.CLASS DIAGRAM:
-![image](https://github.com/Yogabharathi3/software/assets/118899387/33ed7321-a13d-46ed-81ea-f09d6bc521b9)
+![image](https://github.com/Yogabharathi3/software/assets/118899387/eef9c477-8280-4da2-ad9f-8e85f10bb015)
 
 ### 6.ACTVITY DIAGRAM:
-![image](https://github.com/Yogabharathi3/software/assets/118899387/e9ae1e65-8cb6-4213-b21e-37b95b22aaea)
+![image](https://github.com/Yogabharathi3/software/assets/118899387/8634fe05-2a14-4354-a84e-e02409f0818a)
 
 ## RESULT:
-Thus, the Hospital management System project was executed and the output was verified.
+Thus, the Student information system project was executed and the output was verified.

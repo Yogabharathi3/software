@@ -1,30 +1,29 @@
-# EX NO: 5
-## EXAM REGISTRATION SYSTEM
-## DATE:04.04.2024,11.04.2024
+# EX NO: 6
+## ONLINE EXAMINATION SYSTEM
+## DATE:18.04.2024,25.04.2024
 ## AIM:
-To develop a project Course Reservation and Exam Registration System using Rational Rose Software and to implement the software in Java.
+To develop the Exam Registration System using Star UML tools.
 ## PROBLEM STATEMENT:
- Effective for Administration Purpose
- Cost effective
- Better Services
+1. Exam Registration System is used in the effective registration of exams to all of the applicants. This system adopts a comprehensive approach to minimize the manual work and schedule resources, time in a coherentmanner.
+2. The core of the system is to get the online registration form (with detailssuch as name,address etc.,) filled by the applicant whose details are laterverified by the Administrator.
+3. Then the applicant needs to pay the examination fees by the interface provided in the Exam Registration system. After the end of the due date for submitting the form, the information is in turn forwarded to the administrator's view.
+4. The applications are then processed based on the information given by the applicant, and any forfeiting identified can make the applicant liable to penalty as per the law.
+5. The administrator after successful confirmation, initiates the process to generate the hall tickets for the applicants. After successful generation of hall tickets, the system delivers the hall ticket to the applicants. The applicants can download the hall tickets finally
 ## UML DIAGRAMS:
 ### 1.USE CASE DIAGRAM :
-![image](https://github.com/Yogabharathi3/software/assets/118899387/f978083e-88c2-4a03-aed3-002faa0bda32)
-
-### 2.COMMUNICATION DIAGRAM:
-![image](https://github.com/Yogabharathi3/software/assets/118899387/d6e43378-6dae-4150-8c71-b17f95327694)
+![image](https://github.com/Yogabharathi3/software/assets/118899387/0f36dd7d-1c81-494f-b25c-ecfdc31ca79e)
 
 ### 3.SEQUENCE DIAGRAM:
-![image](https://github.com/Yogabharathi3/software/assets/118899387/41da91c1-cfd0-4c20-b746-94e897f3bc94)
+![image](https://github.com/Yogabharathi3/software/assets/118899387/1a84d88b-0c34-4730-a76b-4322a891a9ff)
 
 ### 4.PACKAGE DIAGRAM:
-![image](https://github.com/Yogabharathi3/software/assets/118899387/c1772d95-5441-4343-bc06-d7a224204b30)
+![image](https://github.com/Yogabharathi3/software/assets/118899387/eccf6197-4495-42a4-ac96-73dc81921e86)
 
 ### 5.CLASS DIAGRAM:
-![image](https://github.com/Yogabharathi3/software/assets/118899387/eef9c477-8280-4da2-ad9f-8e85f10bb015)
+![image](https://github.com/Yogabharathi3/software/assets/118899387/63d6a950-6aac-410e-bd18-9663f0202af6)
 
 ### 6.ACTVITY DIAGRAM:
-![image](https://github.com/Yogabharathi3/software/assets/118899387/8634fe05-2a14-4354-a84e-e02409f0818a)
+![image](https://github.com/Yogabharathi3/software/assets/118899387/d6fd13c4-2417-4d06-bd71-cbce214d901a)
 
 ## RESULT:
-Thus, the Student information system project was executed and the output was verified.
+Thus,the project to develop Exam Registration system was developed using Star UML Software is done.

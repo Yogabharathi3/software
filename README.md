@@ -26,5 +26,5 @@ To develop the Exam Registration System using Star UML tools.
 
 ### 6.ACTVITY DIAGRAM:
 ![image](https://github.com/Yogabharathi3/software/assets/118899387/a6a4969c-cc39-405c-b0da-2a80c74249a4)
-
+## Result:
 Thus,the project to develop Exam Registration system was developed using Star UML Software is done.
